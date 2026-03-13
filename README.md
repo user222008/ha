@@ -1,4 +1,4 @@
-HomeAssistant - Docker to be run on any OS
+HomeAssistant - Docker to be run on any OS \n
 NOTE: make sure you have docket and docker-compose installed in your system.
 
 steps before deploy:
