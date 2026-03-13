@@ -1,6 +1,6 @@
 HomeAssistant - Docker to be run on any OS
 
-NOTE: make sure you have docket and docker-compose installed in your system.
+NOTE: make sure you have docker and docker-compose installed in your system.
 
 steps before deploy:
 run followign command on the host you want to build:
